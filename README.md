@@ -1,1 +1,1 @@
-# project-devsecops-cicd-ver-1.0-vm-aws
+# Project DevSecOps CICD Version 1.0 VM on AWS
